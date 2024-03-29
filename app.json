@@ -1,7 +1,7 @@
 {
   "id": "386fe649-59f2-4e29-b203-6c68a4f41a20",
-  "name": "ALProject1",
-  "publisher": "Default Publisher",
+  "name": "CaseStudy1",
+  "publisher": "WindTech",
   "version": "1.0.0.0",
   "brief": "",
   "description": "",
@@ -17,7 +17,7 @@
   "idRanges": [
     {
       "from": 50000,
-      "to": 50049
+      "to": 50149
     }
   ],
   "resourceExposurePolicy": {
